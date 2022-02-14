@@ -5,3 +5,4 @@ IKT bevezető gyakorlás.
 igen, ezt VSC-ben csináltam!
 # igen, ezt böngészőben csináltam!
 új 2
+#új
